@@ -1,0 +1,10 @@
+c:\users\leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\bin\Debug\CopierImages.exe.config
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\bin\Debug\CopierImages.exe
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\bin\Debug\CopierImages.pdb
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.Form1.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.ImagePanel.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.Properties.Resources.resources
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.csproj.GenerateResource.Cache
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.exe
+C:\Users\Leonardo\documents\visual studio 2013\Projects\CopierImages\CopierImages\obj\Debug\CopierImages.pdb

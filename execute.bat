@@ -1,0 +1,1 @@
+ .\CopierImages\bin\Debug\CopierImages.exe
